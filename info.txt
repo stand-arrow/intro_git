@@ -3,5 +3,6 @@ git練習用のフォルダ
 ステージングエリアの練習
 
 コマンドの練習
-・add
-・commit
+・git add
+・git commit
+・git rm
