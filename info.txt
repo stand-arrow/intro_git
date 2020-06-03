@@ -7,3 +7,4 @@ git練習用のフォルダ
 ・git commit
 ・git rm
 ・git status
+・git diff
